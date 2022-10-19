@@ -1,0 +1,3 @@
+﻿  Knapsack.cpp
+C:\Users\88697\Desktop\CS490\Knapsack\Knapsack.cpp(11,9): warning C4101: 'i': unreferenced local variable
+  Knapsack.vcxproj -> C:\Users\88697\Desktop\CS490\Knapsack\Debug\Knapsack.exe
