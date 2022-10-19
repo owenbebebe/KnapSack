@@ -13,15 +13,4 @@ This project is trying to solve the famous NP complete knapsack problem, where t
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-<br />
-Loading the Database:  <br/>
-<img src="https://i.imgur.com/ow05yHy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-The database is a txt file that reads in a series of questions and the program would parse the questions and create a tree structure out of it.
-The database is called animalkingdom in this case
-<br />
-<br />
 
